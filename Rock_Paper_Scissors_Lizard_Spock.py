@@ -62,3 +62,6 @@ while accion != '0':
         pass
     else:
         print('Accion invalida!!!!!!!!!!')
+
+print('fin del juego')
+print('Muchas gracias por jugar!')
